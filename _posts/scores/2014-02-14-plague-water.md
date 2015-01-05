@@ -1,8 +1,7 @@
 ---
-layout: page
-title:  Plague Water (2014)
-date:   2014-02-14 12:00:00
-categories: scores
+layout:   page
+title:    Plague Water (2014)
+category: scores
 ---
 
 Quartet for baritone saxophone, electric guitar, piano and percussion,
@@ -16,16 +15,16 @@ water like this:
 
 > Take three pints of muscadine and boil in it sage and rue, of each a handful,
 > until a pint be wasted. Then strain it and set it over the fire again. Put
-> thereto a dram of long pepper, ginger, and nutmeg, of each half an ounce, being
-> all bruised together. Then boil them a little and put thereto half an ounce of
-> andromachus-treakle, and three drams of mithridate, and a quarter of a pint of
-> the best angelica water.
+> thereto a dram of long pepper, ginger, and nutmeg, of each half an ounce,
+> being all bruised together. Then boil them a little and put thereto half an
+> ounce of andromachus-treakle, and three drams of mithridate, and a quarter of
+> a pint of the best angelica water.
 >
-> This water (which, as says the author, must be kept as your life, and above all
-> earthly treasure) must be taken to the quantity of a spoonful or two morning
-> and evening, if you be already infected, and sweat thereupon. If you be not
-> infected, a spoonful is sufficient, half in the morning and half at night. All
-> the plague time under God (says the author) trust to this, for there was never
-> man, woman, or child that failed of their expectation in taking it. This is
-> also of the same efficacy, not only against the plague, but pox, measles,
-> surfeits, etc.
+> This water (which, as says the author, must be kept as your life, and above
+> all earthly treasure) must be taken to the quantity of a spoonful or two
+> morning and evening, if you be already infected, and sweat thereupon. If you
+> be not infected, a spoonful is sufficient, half in the morning and half at
+> night. All the plague time under God (says the author) trust to this, for
+> there was never man, woman, or child that failed of their expectation in
+> taking it. This is also of the same efficacy, not only against the plague,
+> but pox, measles, surfeits, etc.
