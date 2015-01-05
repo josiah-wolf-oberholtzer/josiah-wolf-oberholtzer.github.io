@@ -9,39 +9,39 @@ url: https://josiahwolfoberholtzer.com
 # Jekyll configuration
 
 permalink: /:categories/:title/
-lsi: true
+#lsi: true
 markdown: kramdown
-kramdown:
-  toc_levels: 1..2
-highlighter: pygments
-gems:
-  - jekyll-sitemap
-  - jekyll-archives
-include: [".htaccess"]
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "node_modules", "Gruntfile.js", "package.json", ".jekyll-assets-cache"]
+#kramdown:
+#  toc_levels: 1..2
+#highlighter: pygments
+#gems:
+#  - jekyll-sitemap
+#  - jekyll-archives
+#include: [".htaccess"]
+#exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "node_modules", "Gruntfile.js", "package.json", ".jekyll-assets-cache"]
 
 # Plugin: jekyll-assets
 
-assets:
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: hard
-  cache: true
-  debug: false
-  version: 1
+#assets:
+#  sources:
+#    - _assets/javascripts
+#    - _assets/stylesheets
+#  js_compressor: uglifier
+#  css_compressor: sass
+#  cachebust: hard
+#  cache: true
+#  debug: false
+#  version: 1
 
 # Plugin: jekyll-archives
 
-jekyll-archives:
-  enabled:
-    - tags
-    - year
-  layouts:
-    year: year_index
-    tag: tag_index
-  permalinks:
-    year: /:year/
-    tag: /tag/:name/
+#jekyll-archives:
+#  enabled:
+#    - tags
+#    - year
+#  layouts:
+#    year: year_index
+#    tag: tag_index
+#  permalinks:
+#    year: /:year/
+#    tag: /tag/:name/
