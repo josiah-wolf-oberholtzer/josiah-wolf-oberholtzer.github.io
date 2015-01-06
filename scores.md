@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Scores
+permalink: /scores/
 ---
 
 <div class="home">

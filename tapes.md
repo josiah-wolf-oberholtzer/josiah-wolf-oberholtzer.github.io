@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Tapes
+permalink: /tapes/
 ---
 
 <div class="home">
