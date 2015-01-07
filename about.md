@@ -41,3 +41,7 @@ where he has studied with Steven Kazuo Takasugi, Hans Tutschku and Chaya
 Czernowin. He has also attended the Summer Akademy at Schloss Solitude in
 Stuttgart, and previously completed a Bachelors of Music at Oberlin
 Conservatory in 2006, where he studied with Lewis Nielson and Randolph Coleman.
+
+[Curriculum Vitae][cv]
+
+[cv]: /assets/pdfs/JosiahWolfOberholtzer_CV.pdf
