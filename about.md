@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Josiah Wolf Oberholtzer is a composer and researcher, born in Boston in 1984.
+**Josiah Wolf Oberholtzer** is a composer and researcher, born in Boston in
+1984.
 
 His music has been played in the US, Germany and Israel. Berlin's Ensemble
 Recent works include [Invisible Cities (i): Zaira][zaira], an octet for
