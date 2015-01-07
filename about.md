@@ -14,7 +14,7 @@ Kaleidosop commissioned Aurora, a 22-voice string orchestra piece for a
 festival commemorating the 10th anniversary of the death of Iannis Xenakis. It
 was premiered in Berlin's Kammermusiksaal in August of 2011. He has also
 composed numerous large-scale multi-channel works for Harvard University's
-HYDRA acousmonium.
+[HYDRA][hydra] 40-channel speaker orchestra.
 
 His research interests range over live electronics, algorithmic composition,
 music-informatics and audio analysis. He is one of the lead architects of
@@ -41,6 +41,7 @@ Conservatory in 2006, where he studied with Lewis Nielson and Randolph Coleman.
 [abjad]: /code/abjad/
 [cv]: /assets/pdfs/JosiahWolfOberholtzer_CV.pdf
 [genkill]: http://vimeo.com/63164780
+[hydra]: http://huseac.fas.harvard.edu/hydra/
 [ph2]: http://vimeo.com/67093231 
 [pw]: /scores/plague-water/
 [shakers]: https://www.youtube.com/watch?v=pmhTjWLeZtM
