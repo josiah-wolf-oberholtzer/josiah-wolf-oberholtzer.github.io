@@ -1,6 +1,7 @@
 ---
 layout:   page
 title:    Plague Water (2014)
+excerpt:  "For saxophone, electric guitar, piano and percussion"
 category: scores
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout:   page
 title:    Aqua magnanimitatis (2013)
+excerpt:  "For thirty-two-channel playback"
 category: tapes
 ---
 

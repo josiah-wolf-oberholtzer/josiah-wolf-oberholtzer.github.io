@@ -4,17 +4,24 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
+  <h1 class="page-heading">Scores</h1>
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% for post in site.categories.scores %}
+      {% include page-item.html %}
+    {% endfor %}
+  </ul>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+  <h1 class="page-heading">Tapes</h1>
+  <ul class="post-list">
+    {% for post in site.categories.tapes %}
+      {% include page-item.html %}
+    {% endfor %}
+  </ul>
+
+  <h1 class="page-heading">Code</h1>
+  <ul class="post-list">
+    {% for post in site.categories.code %}
+      {% include page-item.html %}
     {% endfor %}
   </ul>
 
