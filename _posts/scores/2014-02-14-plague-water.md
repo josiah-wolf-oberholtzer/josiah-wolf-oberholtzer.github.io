@@ -29,3 +29,6 @@ water like this:
 > there was never man, woman, or child that failed of their expectation in
 > taking it. This is also of the same efficacy, not only against the plague,
 > but pox, measles, surfeits, etc.
+
+Source for **Plague Water** is available on
+[GitHub](https://github.com/josiah-wolf-oberholtzer/plague_water).
