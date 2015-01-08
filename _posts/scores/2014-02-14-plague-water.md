@@ -9,7 +9,7 @@ Quartet for baritone saxophone, electric guitar, piano and percussion,
 performed by **Ensemble Nikel** (**Patrick Stadler**, **Yaron Deutsch**, **Rei
 Nakamura** and **Brian Archinal**) at Harvard University.
 
-<p><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145543310&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></p>
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145543310&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false"></iframe></p>
 
 **John French**, in his *Art of Distillation* (1651), describes one recipe for plague
 water like this:
