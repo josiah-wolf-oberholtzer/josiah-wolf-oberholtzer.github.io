@@ -8,12 +8,12 @@ permalink: /about/
 1984.
 
 His music has been played in the US, Germany and Israel. Recent works include
-[Invisible Cities (i): Zaira][zaira], an octet for Ensemble Mosaik, and [Plague
-Water][pw] a quartet for Ensemble Nikel. Ensemble Kaleidosop commissioned
-[Aurora][aurora], a 22-voice string orchestra piece for a festival
-commemorating the 10th anniversary of the death of Iannis Xenakis. It was
-premiered in Berlin's Kammermusiksaal in August of 2011. He has also composed
-numerous large-scale multi-channel works for Harvard University's
+[*Invisible Cities (i): Zaira*][zaira], an octet for Ensemble Mosaik, and
+[*Plague Water*][pw] a quartet for Ensemble Nikel. Ensemble Kaleidosop
+commissioned [*Aurora*][aurora], a 22-voice string orchestra piece for a
+festival commemorating the 10th anniversary of the death of Iannis Xenakis. It
+was premiered in Berlin's Kammermusiksaal in August of 2011. He has also
+composed numerous large-scale multi-channel works for Harvard University's
 [HYDRA][hydra] 40-channel speaker orchestra.
 
 His research interests range over live electronics, algorithmic composition,
@@ -25,11 +25,11 @@ typesetting engine, and has facillitated all of his acoustic compositions since
 
 He also works as a sound designer, helping other composers realize the
 electronic aspects of their compositions. He engineered the live-electronic
-setups for [Stefan Prins][prins]' widely-performed [Generation Kill][genkill]
-and [Piano Hero II][ph2], integrating video game controllers and live video
+setups for [Stefan Prins][prins]' widely-performed [*Generation Kill*][genkill]
+and [*Piano Hero II*][ph2], integrating video game controllers and live video
 capture with instrumental performers. He also engineered setups for [Sabrina
 Schroeder][schroeder]'s [bass-shaker explorations][shakers], and [Timothy
-McCormacks][mccormack]'s [Interfacing with the surface][surface]. He has
+McCormacks][mccormack]'s [*Interfacing with the surface*][surface]. He has
 collaborated closely with [Edgar Barroso][barroso] for many years as well.
 
 He is currently completing a doctorate in composition at Harvard University,
