@@ -1,6 +1,6 @@
 ---
 layout:   page
-title:    In the tall grasses (2012)
+title:    "<em>In the tall grasses</em> (2012)"
 excerpt:  "For thirty-two-channel playback"
 category: tapes
 ---
