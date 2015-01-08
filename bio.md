@@ -19,16 +19,18 @@ numerous large-scale multi-channel works for Harvard University's
 His research interests range over live electronics, algorithmic composition,
 music-informatics and audio analysis. He is one of the lead architects of
 [Abjad][abjad], a Python API for formalized score control. Abjad provides a
-powerful object-oriented interface to the LilyPond music typesetting engine,
-and has facillitated all of his acoustic compositions since 2009.
+powerful object-oriented interface to the [LilyPond][lilypond] music
+typesetting engine, and has facillitated all of his acoustic compositions since
+2009.
 
 He also works as a sound designer, helping other composers realize the
 electronic aspects of their compositions. He engineered the live-electronic
-setups for Stefan Prins' widely-performed [Generation Kill][genkill] and [Piano
-Hero II][ph2], integrating video game controllers and live video capture with
-instrumental performers. He also engineered setups for Sabrina Schroeder's
-[bass-shaker explorations][shakers], and Timothy McCormacks's [Interfacing with
-the surface][surface].
+setups for [Stefan Prins][prins]' widely-performed [Generation Kill][genkill]
+and [Piano Hero II][ph2], integrating video game controllers and live video
+capture with instrumental performers. He also engineered setups for [Sabrina
+Schroeder][schroeder]'s [bass-shaker explorations][shakers], and [Timothy
+McCormacks][mccormack]'s [Interfacing with the surface][surface]. He has
+collaborated closely with [Edgar Barroso][barroso] for many years as well.
 
 He is currently completing a doctorate in composition at Harvard University,
 where he has studied with Hans Tutschku, Chaya Czernowin and Steven Kazuo
@@ -40,11 +42,16 @@ Conservatory in 2006, where he studied with Lewis Nielson and Randolph Coleman.
 
 [abjad]: /code/abjad/
 [aurora]: /scores/aurora/
+[barroso]: http://edgarbarroso.net/
 [cv]: /assets/pdfs/JosiahWolfOberholtzer_CV.pdf
 [genkill]: http://vimeo.com/63164780
 [hydra]: http://huseac.fas.harvard.edu/hydra/
+[lilypond]: http://lilypond.org
 [ph2]: http://vimeo.com/67093231 
 [pw]: /scores/plague-water/
+[schroeder]: http://sabrinaschroeder.com
 [shakers]: https://www.youtube.com/watch?v=pmhTjWLeZtM
+[prins]: http://www.stefanprins.be
 [surface]: https://soundcloud.com/timothy-mccormack/interfacing-with-the-surface
+[mccormack]: http://www.timothy-mccormack.com/
 [zaira]: /scores/zaira/
