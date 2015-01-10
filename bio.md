@@ -20,7 +20,7 @@ His research interests range over live electronics, algorithmic composition,
 music-informatics and audio analysis. He is one of the lead architects of
 [Abjad][abjad], a Python API for formalized score control. Abjad provides a
 powerful object-oriented interface to the [LilyPond][lilypond] music
-typesetting engine, and has facillitated all of his acoustic compositions since
+typesetting engine, and has facilitated all of his acoustic compositions since
 2009.
 
 He also works as a sound designer, helping other composers realize the
