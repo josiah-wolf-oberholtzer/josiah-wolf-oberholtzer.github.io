@@ -7,6 +7,12 @@ permalink: /about/
 **Josiah Wolf Oberholtzer** is a composer and researcher, born in Boston in
 1984.
 
+> [In *Zaira* (2014), Josiah Wolf Oberholtzer placed two identifiable sounding
+> objects in his healthier world of rummaging and rooting: a bang-bang-bang
+> pulsation and a tremolo piano harmony, the only real echoes of what most of
+> us know as music. With the aid of a conductor mapping out beats and gestures
+> we were given some sense of where we humans have been.][review]
+
 His music has been played in the US, Germany and Israel. Recent works include
 [*Invisible Cities (i): Zaira*][zaira], an octet for Ensemble Mosaik, and
 [*Plague Water*][pw] a quartet for Ensemble Nikel. Ensemble Kaleidosop
@@ -55,3 +61,5 @@ Conservatory in 2006, where he studied with Lewis Nielson and Randolph Coleman.
 [surface]: https://soundcloud.com/timothy-mccormack/interfacing-with-the-surface
 [mccormack]: http://www.timothy-mccormack.com/
 [zaira]: /scores/zaira/
+
+[review]: http://www.classical-scene.com/2014/10/05/harvard-new-music/
