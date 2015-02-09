@@ -33,10 +33,14 @@ He also works as a sound designer, helping other composers realize the
 electronic aspects of their compositions. He engineered the live-electronic
 setups for [Stefan Prins][prins]' widely-performed [*Generation Kill*][genkill]
 and [*Piano Hero II*][ph2], integrating video game controllers and live video
-capture with instrumental performers. He also engineered setups for [Sabrina
-Schroeder][schroeder]'s [bass-shaker explorations][shakers], and [Timothy
-McCormacks][mccormack]'s [*Interfacing with the surface*][surface]. He has
-collaborated closely with [Edgar Barroso][barroso] for many years as well.
+capture with instrumental performers.
+
+<!---
+He also engineered setups for [Sabrina Schroeder][schroeder]'s [bass-shaker
+explorations][shakers], and [Timothy McCormacks][mccormack]'s [*Interfacing
+with the surface*][surface]. He has collaborated closely with [Edgar
+Barroso][barroso] for many years as well.
+--->
 
 He is currently completing a doctorate in composition at Harvard University,
 where he has studied with Hans Tutschku, Chaya Czernowin and Steven Kazuo
