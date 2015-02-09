@@ -14,13 +14,14 @@ permalink: /about/
 > we were given some sense of where we humans have been.][review]
 
 His music has been played in the US, Germany and Israel. Recent works include
-[*Invisible Cities (i): Zaira*][zaira], an octet for Ensemble Mosaik, and
-[*Plague Water*][pw] a quartet for Ensemble Nikel. Ensemble Kaleidosop
-commissioned [*Aurora*][aurora], a 22-voice string orchestra piece for a
-festival commemorating the 10th anniversary of the death of Iannis Xenakis. It
-was premiered in Berlin's Kammermusiksaal in August of 2011. He has also
-composed numerous large-scale multi-channel works for Harvard University's
-[HYDRA][hydra] 40-channel speaker orchestra.
+the viola duet [*Invisible Cities (ii): Armilla*][armilla] for Elizabeth
+Weisser and John Pickford Richards, [*Invisible Cities (i): Zaira*][zaira], an
+octet for Ensemble Mosaik, and [*Plague Water*][pw] a quartet for Ensemble
+Nikel. Ensemble Kaleidosop commissioned [*Aurora*][aurora], a 22-voice string
+orchestra piece for a festival commemorating the 10th anniversary of the death
+of Iannis Xenakis. It was premiered in Berlin's Kammermusiksaal in August of
+2011. He has also composed numerous large-scale multi-channel works for Harvard
+University's [HYDRA][hydra] 40-channel speaker orchestra.
 
 His research interests range over live electronics, algorithmic composition,
 music-informatics and audio analysis. He is one of the lead architects of
@@ -51,6 +52,7 @@ Conservatory in 2006, where he studied with Lewis Nielson and Randolph Coleman.
 [Curriculum Vitae][cv]
 
 [abjad]: /code/abjad/
+[armilla]: /scores/armilla/
 [aurora]: /scores/aurora/
 [barroso]: http://edgarbarroso.net/
 [cv]: /assets/pdfs/JosiahWolfOberholtzer_CV.pdf
