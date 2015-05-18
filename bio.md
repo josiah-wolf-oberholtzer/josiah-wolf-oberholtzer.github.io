@@ -14,12 +14,12 @@ permalink: /about/
 > we were given some sense of where we humans have been.][review]
 
 His music has been played in the US, Germany and Israel. Recent works include
-[*Plague Water*][pw] a quartet for Ensemble Nikel, and the Calvino-inspired
-*Invisible Cities* series: [*Invisible Cities (iii): Ersilia*][ersilia], for
-chamber orchestra, written for Ensemble Dal Niente, the viola duet [*Invisible
-Cities (ii): Armilla*][armilla] for Elizabeth Weisser and John Pickford
-Richards, [*Invisible Cities (i): Zaira*][zaira], an octet for Ensemble Mosaik.
-In 2011, Ensemble Kaleidosop commissioned [*Aurora*][aurora], a 22-voice string
+[*Plague Water*][pw], a quartet for Ensemble Nikel, and the Calvino-inspired
+*Invisible Cities* series: [*Invisible Cities (i): Zaira*][zaira], an octet for
+Ensemble Mosaik, the viola duet [*Invisible Cities (ii): Armilla*][armilla] for
+Elizabeth Weisser and John Pickford Richards, and [*Invisible Cities (iii):
+Ersilia*][ersilia], for chamber orchestra, written for Ensemble Dal Niente, In
+2011, Ensemble Kaleidosop commissioned [*Aurora*][aurora], a 22-voice string
 orchestra piece for a festival commemorating the 10th anniversary of the death
 of Iannis Xenakis. He has also composed numerous large-scale multi-channel
 works for Harvard University's [HYDRA][hydra] 40-channel speaker orchestra.
