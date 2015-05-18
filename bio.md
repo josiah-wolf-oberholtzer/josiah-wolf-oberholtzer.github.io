@@ -34,19 +34,19 @@ typesetting engine, and has facilitated all of his acoustic compositions since
 2009.
 
 He also works as a sound designer, helping other composers realize the
-electronic aspects of their compositions. He engineered the live-electronic
-setups for [Stefan Prins][prins]' widely-performed [*Generation Kill*][genkill]
-and [*Piano Hero II*][ph2], integrating video game controllers and live video
-capture with instrumental performers. He has also collaborated extensively with
+electronic aspects of their compositions. He has collaborated extensively with
 [Sabrina Schroeder][schroeder] on her *Stircrazer* series, which combines
-traditional instruments with massive bass-shaker transducers to create heavy
-drones.
+traditional instruments like pianos and bass drums with massive bass-shaker
+transducers to create hypnotizing heavy drones. He also engineered the
+live-electronic setups for [Stefan Prins][prins]' widely-performed [*Generation
+Kill*][genkill] and [*Piano Hero II*][ph2], integrating video game controllers
+and live video capture with instrumental performers.
 
-He is recently completed doctorate in composition at Harvard University,
-where he studied with Hans Tutschku, Chaya Czernowin and Steven Kazuo
-Takasugi. He has also attended the Summer Akademy at Schloss Solitude in
-Stuttgart, and previously completed a Bachelors of Music at Oberlin
-Conservatory in 2006, where he studied with Lewis Nielson and Randolph Coleman.
+He holds a doctorate in music composition from Harvard University, where he
+studied with Hans Tutschku and Chaya Czernowin. He has also attended the Summer
+Akademy at Schloss Solitude in Stuttgart, and previously completed a Bachelors
+of Music at Oberlin Conservatory in 2006, where he studied with Lewis Nielson
+and Randolph Coleman.
 
 [Curriculum Vitae][cv]
 
