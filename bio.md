@@ -38,7 +38,7 @@ electronic aspects of their compositions. He engineered the live-electronic
 setups for [Stefan Prins][prins]' widely-performed [*Generation Kill*][genkill]
 and [*Piano Hero II*][ph2], integrating video game controllers and live video
 capture with instrumental performers. He has also collaborated extensively with
-[Sabrina Schroeder][schroeder] on her [*Stircrazer*] series, which combines
+[Sabrina Schroeder][schroeder] on her *Stircrazer* series, which combines
 traditional instruments with massive bass-shaker transducers to create heavy
 drones.
 
