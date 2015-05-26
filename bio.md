@@ -40,11 +40,11 @@ live-electronic setups for [Stefan Prins][prins]' widely-performed [*Generation
 Kill*][genkill] and [*Piano Hero II*][ph2], integrating video game controllers
 and live video capture with instrumental performers.
 
-He holds a doctorate in music composition from Harvard University, where he
-studied with Hans Tutschku and Chaya Czernowin. He has also attended the Summer
-Akademy at Schloss Solitude in Stuttgart, and previously completed a Bachelors
-of Music at Oberlin Conservatory in 2006, where he studied with Lewis Nielson
-and Randolph Coleman.
+In 2015, he received a doctorate in music composition from Harvard University,
+where he studied with Hans Tutschku and Chaya Czernowin. He has also attended
+the Summer Akademy at Schloss Solitude in Stuttgart, and previously completed a
+Bachelors of Music at Oberlin Conservatory in 2006, where he studied with Lewis
+Nielson and Randolph Coleman.
 
 [Curriculum Vitae][cv]
 
