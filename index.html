@@ -4,35 +4,41 @@ layout: default
 
 <div class="home">
 
-    {% capture new-include %}{% include news.md %}{% endcapture %}
-    {{ new-include | markdownify }}
-
-    <div class="column">
-        {{ site.pages[0].content }}
+    <div>
+    {% capture x %}{% include news.md %}{% endcapture %}
+    {{ x | append: ' ' | markdownify }}
     </div>
 
-    <div class="column">
+    <div class="row">
 
-        <h1 class="page-heading">Code</h1>
-        <ul class="post-list">
-            {% for post in site.categories.code %}
-                {% include page-item.html %}
-            {% endfor %}
-        </ul>
+        <div class="column">
+            {{ site.pages[0].content }}
+        </div>
 
-        <h1 class="page-heading">Scores</h1>
-        <ul class="post-list">
-            {% for post in site.categories.scores %}
-                {% include page-item.html %}
-            {% endfor %}
-        </ul>
+        <div class="column">
 
-        <h1 class="page-heading">Tapes</h1>
-        <ul class="post-list">
-            {% for post in site.categories.tapes %}
-                {% include page-item.html %}
-            {% endfor %}
-        </ul>
+            <h1 class="page-heading">Code</h1>
+            <ul class="post-list">
+                {% for post in site.categories.code %}
+                    {% include page-item.html %}
+                {% endfor %}
+            </ul>
+
+            <h1 class="page-heading">Scores</h1>
+            <ul class="post-list">
+                {% for post in site.categories.scores %}
+                    {% include page-item.html %}
+                {% endfor %}
+            </ul>
+
+            <h1 class="page-heading">Tapes</h1>
+            <ul class="post-list">
+                {% for post in site.categories.tapes %}
+                    {% include page-item.html %}
+                {% endfor %}
+            </ul>
+
+        </div>
 
     </div>
 
