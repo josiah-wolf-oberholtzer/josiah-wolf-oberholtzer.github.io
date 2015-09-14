@@ -1,4 +1,4 @@
-## News
+## Recent activity
 
 -   A preview movie of the *discoGraph* interactive discography & social
     network navigator is now available:
