@@ -47,6 +47,7 @@ Bachelors of Music at Oberlin Conservatory in 2006, where he studied with Lewis
 Nielson and Randolph Coleman.
 
 [Curriculum Vitae][cv]
+/
 [Resume][resume]
 
 [abjad]: /code/abjad/

@@ -4,6 +4,9 @@ layout: default
 
 <div class="home">
 
+    {% capture new-include %}{% include news.md %}{% endcapture %}
+    {{ new-include | markdownify }}
+
     <div class="column">
         {{ site.pages[0].content }}
     </div>
