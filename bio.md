@@ -47,12 +47,14 @@ Bachelors of Music at Oberlin Conservatory in 2006, where he studied with Lewis
 Nielson and Randolph Coleman.
 
 [Curriculum Vitae][cv]
+[Resume][resume]
 
 [abjad]: /code/abjad/
 [armilla]: /scores/armilla/
 [aurora]: /scores/aurora/
 [barroso]: http://edgarbarroso.net/
 [cv]: /assets/pdfs/JosiahWolfOberholtzer_CV.pdf
+[resume]: /assets/pdfs/JosiahWolfOberholtzer_Resume.pdf
 [ersilia]: /scores/ersilia/
 [genkill]: http://vimeo.com/63164780
 [hydra]: http://huseac.fas.harvard.edu/hydra/
