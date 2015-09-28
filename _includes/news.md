@@ -1,8 +1,7 @@
 ## Recent activity
 
--   A preview movie of the *discoGraph* interactive discography & social
-    network navigator is now available:
-    [https://vimeo.com/138564453](https://vimeo.com/138564453).
+-   [Discograph](http://discograph.mbrsi.org), an interactive visualization of
+    relationships from the Discogs.com discography databse, is now live.
 
 -   June 27, 2015. University of Huddersfield, UK. Presented a talk at the
     first [Study Day on Computer Simulation of Musical
