@@ -1,4 +1,4 @@
-## Recent activity
+## What's new?
 
 -   [Discograph](http://discograph.mbrsi.org), an interactive visualization of
     relationships from the Discogs.com discography databse, is now live.
@@ -16,5 +16,3 @@
     Open-source Software System for Formalized Score Control*. Written with
     Trevor Bača, Jeffrey Treviño and Víctor Adán. PDF available
     [here](https://github.com/Abjad/tenor2015/blob/master/abjad.pdf).
-
-<br />

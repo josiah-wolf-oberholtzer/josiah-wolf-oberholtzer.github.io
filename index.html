@@ -4,11 +4,18 @@ layout: default
 
 <div class="home">
 
-    <div>
-    {% capture x %}{% include news.md %}{% endcapture %}
-    {{ x | append: ' ' | markdownify }}
+    <div class="row">
+        <div class="column">
+        {% capture md_blurb %}{% include blurb.md %}{% endcapture %}
+        {{ md_blurb | append: ' ' | markdownify }}
+        </div>
+        <div class="column">
+        {% capture md_news %}{% include news.md %}{% endcapture %}
+        {{ md_news | append: ' ' | markdownify }}
+        </div>
     </div>
 
+    <!--
     <div class="row">
 
         <div class="column">
@@ -17,21 +24,21 @@ layout: default
 
         <div class="column">
 
-            <h1 class="page-heading">Code</h1>
+            <h2 class="page-heading">Code</h1>
             <ul class="post-list">
                 {% for post in site.categories.code %}
                     {% include page-item.html %}
                 {% endfor %}
             </ul>
 
-            <h1 class="page-heading">Scores</h1>
+            <h2 class="page-heading">Scores</h1>
             <ul class="post-list">
                 {% for post in site.categories.scores %}
                     {% include page-item.html %}
                 {% endfor %}
             </ul>
 
-            <h1 class="page-heading">Tapes</h1>
+            <h2 class="page-heading">Tapes</h1>
             <ul class="post-list">
                 {% for post in site.categories.tapes %}
                     {% include page-item.html %}
@@ -41,5 +48,6 @@ layout: default
         </div>
 
     </div>
+    -->
 
 </div>
