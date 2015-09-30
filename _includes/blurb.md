@@ -8,6 +8,8 @@ For example:
 - An [interactive social graph visualization](/code/discograph/).
 - A [web interface for audio-analysis and spectral-descriptor-search](/code/sasha/).
 
+I'm one of the lead developers for [Abjad](http://abjad.mbrsi.org).
+
 Check out my current project, [Discograph](http://discograph.mbrsi.org):
 
 <a href="http://discograph.mbrsi.org">
@@ -19,7 +21,7 @@ Check-out my [GitHub](http://github.com/josiah-wolf-oberholtzer).
 Interested? You can <a href="mailto:josiah.oberholtzer@gmail.com">hire me</a>.
 
 I also have a background in music: composition, analysis, production,
-acoustics, recording, sound reinforcement.
+acoustics, recording, sound reinforcement, live electronics.
 
 - Sometimes I write [chamber music](/scores/).
 - Sometimes I write massively-multichannel [electro-acoustic music](/tapes/).
