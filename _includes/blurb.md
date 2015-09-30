@@ -16,8 +16,13 @@ Check out my current project, [Discograph](http://discograph.mbrsi.org):
 
 Check-out my [GitHub](http://github.com/josiah-wolf-oberholtzer).
 
-Sometimes I write [chamber music](/scores/).
-
-Sometimes I also make [electro-acoustic music](/tapes/).
-
 Interested? You can <a href="mailto:josiah.oberholtzer@gmail.com">hire me</a>.
+
+I also have a background in music: composition, analysis, production,
+acoustics, recording, sound reinforcement.
+
+- Sometimes I write [chamber music](/scores/).
+- Sometimes I write massively-multichannel [electro-acoustic music](/tapes/).
+- Sometimes I make [DJ mixes](https://soundcloud.com/josiah-wolf-oberholtzer/sets/bedroom-rockers).
+
+Basta.
