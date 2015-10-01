@@ -10,7 +10,7 @@ For example:
 
 I'm one of the lead developers for [Abjad](http://abjad.mbrsi.org).
 
-Check out my current project, [Discograph](http://discograph.mbrsi.org):
+Check out my current project, [Disco/graph](http://discograph.mbrsi.org):
 
 <a href="http://discograph.mbrsi.org">
     <img src="/assets/images/discograph.png" width="348" style="border: 1px solid #ccc;" />

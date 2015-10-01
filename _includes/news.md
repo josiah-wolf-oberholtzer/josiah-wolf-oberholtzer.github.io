@@ -1,6 +1,6 @@
 ## What's new?
 
--   [Discograph](http://discograph.mbrsi.org), an interactive visualization of
+-   [Disco/graph](http://discograph.mbrsi.org), an interactive visualization of
     relationships from the Discogs.com discography databse, is now live.
 
 -   June 27, 2015. University of Huddersfield, UK. Presented a talk at the
