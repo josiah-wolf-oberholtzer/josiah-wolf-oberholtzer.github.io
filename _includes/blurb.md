@@ -1,12 +1,16 @@
 ## I'm **Josiah Wolf Oberholtzer**.
 
-I write [code](/code/), front-end and back, mainly in Python and Javascript.
+I work at [Discogs](http://discogs.com).
+
+I write [code](/code/), web stuff, audio stuff, front-end and back, mainly in
+Python and Javascript.
 
 For example:
 
 - A [music document-processing framework](/code/abjad/).
 - An [interactive social graph visualization](/code/discograph/).
 - A [web interface for audio-analysis and spectral-descriptor-search](/code/sasha/).
+- A [Python interface to SuperCollider's scsynth](/code/supriya/).
 
 I'm one of the lead developers for [Abjad](http://abjad.mbrsi.org).
 
@@ -17,8 +21,6 @@ Check out my current project, [Disco/graph](http://discograph.mbrsi.org):
 </a>
 
 Check-out my [GitHub](http://github.com/josiah-wolf-oberholtzer).
-
-Interested? You can <a href="mailto:josiah.oberholtzer@gmail.com">hire me</a>.
 
 I also have a background in music: composition, analysis, production,
 acoustics, recording, sound reinforcement, live electronics.
