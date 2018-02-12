@@ -37,14 +37,15 @@ In 2015, he received a doctorate in music composition from Harvard University,
 where he studied with Hans Tutschku and Chaya Czernowin. He has also attended
 the Summer Akademy at Schloss Solitude in Stuttgart, and previously completed a
 Bachelors of Music at Oberlin Conservatory in 2006, where he studied with Lewis
-Nielson and Randolph Coleman.
+Nielson and Randolph Coleman. He currently works as a professional Python
+developer for Discogs.com.
 
 [Curriculum Vitae][cv]
 
 [abjad]: /code/abjad/
 [armilla]: /scores/armilla/
 [aurora]: /scores/aurora/
-[cv]: https://josiahwolfoberholtzer.com/assets/pdfs/josiah-wolf-oberholtzer-cv.pdf
+[cv]: http://josiahwolfoberholtzer.com/assets/pdfs/josiah-wolf-oberholtzer-cv.pdf
 [ersilia]: /scores/ersilia/
 [genkill]: https://vimeo.com/63164780
 [hydra]: https://huseac.fas.harvard.edu/hydra/
