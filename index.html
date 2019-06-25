@@ -1,53 +1,59 @@
----
-layout: default
----
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="icon" type="image/x-icon" href="http://josiahwolfoberholtzer.com/favicon.ico" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <title>josiah wolf oberholtzer</title>
+  </head>
+  <body>
+    <div class="container">
 
-<div class="home">
+      <h1 class="display-4 mt-5">josiah wolf oberholtzer</h1>
 
-    <div class="row">
-        <div class="column">
-        {% capture md_blurb %}{% include blurb.md %}{% endcapture %}
-        {{ md_blurb | append: ' ' | markdownify }}
-        </div>
-        <div class="column">
-        {% capture md_news %}{% include news.md %}{% endcapture %}
-        {{ md_news | append: ' ' | markdownify }}
-        </div>
+      <p class="h6">is a composer and software developer based in new york, new york</p>
+
+      <br/>
+
+      <dl>
+
+        <dt><a href="http://discograph.mbrsi.org">disco/graph</a></dt>
+        <dd class="text-muted">is an interactive graph visualization of all music from the 2016 <a href="https://discogs.com/">Discogs</a> dataset</dd>
+
+        <dt><a href="https://github.com/josiah-wolf-oberholtzer/supriya">supriya</a></dt>
+        <dd class="text-muted">is a Python API for <a href="https://supercollider.github.io/">SuperCollider<a></dd>
+
+        <dt><a href="https://github.com/josiah-wolf-oberholtzer/uqbar">uqbar</a></dt>
+        <dd class="text-muted">is a toolkit with datastructures and documentation extensions for Sphinx and Graphviz</dd>
+
+        <dt><a href="https://github.com/Abjad/abjad">abjad</a></dt>
+        <dd class="text-muted">is a Python API for <a href="http://lilypond.org/">LilyPond</a></dd>
+
+        <dt><a href="https://soundcloud.com/josiah-wolf-oberholtzer/in-the-tall-grasses">in the tall grasses</a></dt>
+        <dd class="text-muted">is a 40-minute, 40-channel hallucination on the flora of Cape Cod</dd>
+
+        <dt><a href="https://vimeo.com/66607462">red steam</a></dt>
+        <dd class="text-muted">is a video of a false seascape</dd>
+
+        <dt><a href="https://soundcloud.com/josiah-wolf-oberholtzer/invisible-cities-iii-ersilia">invisible cities (iii): ersilia</a></dt>
+        <dd class="text-muted">is a work for chamber orchestra, after Italo Calvino's story of the same name<dd>
+
+      </dl>
+
+      <br/>
+
+      <p>
+        <a href="https://github.com/josiah-wolf-oberholtzer">github</a>
+        /
+        <a href="http://soundcloud.com/josiah-wolf-oberholtzer">soundcloud</a>
+        /
+        <a href="http://josiahwolfoberholtzer.com/assets/josiah-wolf-oberholtzer-resume.pdf">resume</a>
+        /
+        <a href="https://www.linkedin.com/in/josiahwolfoberholtzer/">linkedin</a>
+        /
+        <a href="mailto:josiah.oberholtzer@gmail.com">email</a>
+      </p>
+
     </div>
-
-    <!--
-    <div class="row">
-
-        <div class="column">
-            {{ site.pages[0].content }}
-        </div>
-
-        <div class="column">
-
-            <h2 class="page-heading">Code</h1>
-            <ul class="post-list">
-                {% for post in site.categories.code %}
-                    {% include page-item.html %}
-                {% endfor %}
-            </ul>
-
-            <h2 class="page-heading">Scores</h1>
-            <ul class="post-list">
-                {% for post in site.categories.scores %}
-                    {% include page-item.html %}
-                {% endfor %}
-            </ul>
-
-            <h2 class="page-heading">Tapes</h1>
-            <ul class="post-list">
-                {% for post in site.categories.tapes %}
-                    {% include page-item.html %}
-                {% endfor %}
-            </ul>
-
-        </div>
-
-    </div>
-    -->
-
-</div>
+  </body>
+</html>
